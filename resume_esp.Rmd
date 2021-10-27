@@ -1,0 +1,237 @@
+---
+title: "Adriana Rivera González"
+author: Adriana Rivera Gonzalez
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    css: ['style.css', 'resume']
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r Chunk options, echo=FALSE}
+knitr::opts_chunk$set(warning = F, message = F, echo = FALSE, results = 'asis')
+```
+
+Aside
+================================================================================
+
+```{r Logo}
+# knitr::include_graphics(here::here('figs', 'foto3.jpeg'))
+
+```
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> adriana.rivera@kof.com.mx
+- <i class="fa fa-envelope"></i> adrirg2112@hotmail.com
+- <i class="fa fa-envelope"></i> adririgo@gmail.com 
+- <i class="fa fa-linkedin"></i> linkedin.com/AdrianaRiveraG
+- <i class="fa fa-github"></i> github.com/adrirg21
+- <i class="fa fa-phone"></i> (+52) 55-37-08-31-14
+
+- <i class="fa fa-calendar-o"></i> 21 de diciembre de 1996
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+**TI:** 
+
+- <i class="fas fa-code-branch"></i> Microsoft Office
+- <i class="fas fa-code-branch"></i> Power BI
+- <i class="fas fa-code-branch"></i> SAP
+- <i class="fas fa-code-branch"></i> R (básico)
+- <i class="fas fa-code-branch"></i> Python (básico)
+
+
+**Idiomas:** 
+
+- <i class="fas fa-globe-americas"></i> Español 
+- <i class="fas fa-globe-americas"></i> Alemán: Sprachdiplom C1
+- <i class="fas fa-globe-americas"></i> Inglés: FCE
+
+
+<!-- Áreas de Interés {#interests} -->
+<!-- -------------------------------------------------------------------------------- -->
+
+<!-- <i class="fa fa-wave-square"></i> Administración de Portafolios -->
+
+<!-- <i class="fa fa-wave-square"></i> Economía Internacional -->
+
+
+Main
+================================================================================
+
+Adriana Rivera González {#title}
+--------------------------------------------------------------------------------
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### (ITAM) Instituto Tecnológico Autónomo de México
+
+Licenciatura en Economía
+
+CDMX
+
+2016 - Presente  
+
+*Área de concentración:* Finanzas  </br>
+*Cursos:* Micro y Macroeconomía, Finanzas Corporativas, Administración de Portafolios,  Macroeconometría,Economía Internacional, Análisis Real.
+
+### Desafío BAL
+
+Diplomado
+
+ITAM
+
+06-2021
+
+*Materias:* Presentaciones Ejecutivas, Metas de Desarrollo Sostenibles, Estrategia de Negocios,
+Herramientas para Trabajo Colaborativo, Habilidades para Consultoría de Negocios
+
+### Colegio Alemán Alexander von Humboldt 
+
+CCH y Abitur (Bachillerato Alemán) </br> 
+Intercambio Landesgymnasium Sankt Afra (Alemania)
+
+CDMX
+
+2013 - 2016
+
+
+ 
+Experiencia Laboral {data-icon=briefcase} 
+--------------------------------------------------------------------------------
+### Coca-Cola FEMSA 
+
+*Soporte Compensación Fija*
+
+CDMX
+
+03-2021 - Presente
+
+
+**Descripción**: 
+
+Descarga y limpieza de bases de datos, elaboración del manual del área, registro y seguimiento de movimientos internacionales, elaboración de propuestas económicas, apoyo en encuestas de mercado y análisis salarial.
+  
+  
+<!-- ### Maestra de Alemán, niveles A1 a B2 -->
+
+<!-- *Escuela de Idiomas Willkommen* -->
+
+<!-- CDMX -->
+
+<!-- 06-2019 - 01-2020 -->
+
+
+<!-- **Descripción**: Modalidad en línea -->
+
+
+### Servicio Social en Asistencia Preuniversitaria ITAM
+
+*N/A* 
+
+ITAM   
+
+06-2017 - 02-2018
+
+**Descripción**: Promoción de las carreras que ofrece el ITAM 
+  <!-- -en diferentes Ferias de Universidades -->
+  <!-- - Informes  y atención al cliente. -->
+  <!-- - Participación en eventos como Noche ITAM, Maratón ITAM, Día ITAM, BrainQuest, etc. -->
+
+
+### AIESEC
+
+*Logística de Proyectos Sociales - Coordinadora*
+
+ITAM
+
+02-2017 - 07-2017
+
+
+<!-- AIESEC es una organización global de jóvenes sin fines de lucro, que organiza diversos proyectos de voluntariado. -->
+
+**Descripción**: Logística y organización del hospedaje de los voluntarios extranjeros, del programa "Buddy" y de eventos de convivencia.
+  
+  
+### AIESEC
+
+*Recursos Humanos*
+
+ITAM
+
+08-2017 - 02-2018
+
+
+**Descripción**: Organización del proceso de admisión al comité ITAMBERO y de eventos de integración dentro del comité.
+  
+  
+
+
+Otros {data-icon=file-alt}
+--------------------------------------------------------------------------------
+
+<!-- ### Desafío BAL - Diplomado -->
+
+<!-- **Materias**: *Presentaciones Ejecutivas, Metas de Desarrollo Sostenibles, Estrategia de Negocios, Herramientas para Trabajo Colaborativo, Habilidades para Consultoría de Negocios* -->
+
+<!-- ITAM -->
+
+<!-- 06-2021 -->
+
+<!-- **Materias**: *Presentaciones Ejecutivas, Metas de Desarrollo Sostenibles, Estrategia de Negocios, Herramientas para Trabajo Colaborativo, Habilidades para Consultoría de Negocios* -->
+
+### Maestra de Salsa
+
+Miembro de la organización estudiantil *Salsa con Colmillo ITAM* 
+
+ITAM
+
+01-2021 - Presente
+
+
+### Maestra de Alemán, niveles A1 a B2
+
+Escuela de Idiomas *Willkommen*
+
+CDMX
+
+06-2019 - 01-2020
+
+**Descripción**: Modalidad en línea
+
+
+<!-- ### Ruedafest, Campeonato Latinoamericano de Salsa Casino -->
+
+<!-- Coreografía de pareja amateur -->
+
+<!-- GDL -->
+
+<!-- 02-2020 -->
+
+<!-- **Organizado por**: RuedaFest  -->
+
+<!-- **Descripción**: *Coreografía de pareja* -->
+ 
+ 
+<!-- ### Ruedafest, Campeonato Latinoamericano de Salsa Casino -->
+
+<!-- Segundo Lugar Rueda Novel- Coreografía grupal -->
+
+<!-- GDL -->
+
+<!-- 02-2019 -->
+
+<!-- **Organizado por**: RuedaFest  -->
+
+<!-- **Descripción**: *Segundo lugar en la categoría rueda novel con una coreografía de 20 elementos.* -->
+
+ 
+ 
